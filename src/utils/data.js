@@ -1,120 +1,112 @@
-import { HiOutlineDesktopComputer } from "react-icons/hi";
+import { HiOutlineDatabase, HiOutlineDesktopComputer, HiOutlineServer } from "react-icons/hi";
 import { CiMobile1 } from "react-icons/ci";
 import { MdWorkspacesOutline } from "react-icons/md";
 export const projectExperience = [
   {
-    name: "Website Design",
-    projects: 76,
-    icon: HiOutlineDesktopComputer,
+    name: "Database Engineer",
+    projects: 134,
+    icon: HiOutlineDatabase,
     bg: "#286F6C",
   },
   {
-    name: "Mobile App Design",
-    projects: 63,
-    icon: CiMobile1,
+    name: "RESTful API",
+    projects: 26,
+    icon: HiOutlineServer,
     bg: "#EEC048",
   },
   {
-    name: "Brand Identity",
-    projects: 47,
+    name: "Machine Learning NLP",
+    projects: 11,
     icon: MdWorkspacesOutline,
     bg: "#F26440",
   },
 ];
 
 export const WhatDoIHelp = [
-  "I will help you with finging a solution and solve your problem, We use process design to create digital products. Besides that also help their business.",
-  "We use process design to create digital products. Besides that also help their business",
+  "I have experience in backend development, where I've had the opportunity to work on various projects. ",
+  "Involving robust server-side solutions, RESTful APIs, and database optimization.",
 ];
 
 export const workExp = [
   {
-    place: "Self-Employed, Brisbane",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Visual Designer",
+    place: "AICCC Conference, OSAKA JAPAN",
+    tenure: "Dec 2022",
+    role: "Author & Machine Learning Developer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "BS Computer Science students for successfully presenting their research papers to the 5th Artificial Intelligence and Cloud Computing Conference (AICCC 2022) held in Osaka International Convention Center, Osaka, Japan, from December 17-19,2022.",
   },
   {
-    place: "New Man Services",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "UI/UX Designer",
+    place: "BoredGuys Corp.",
+    tenure: "Feb 2023 - April 2023",
+    role: "Back-End Developer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "I specialize in implementing scalable APIs and routes to drive core functionality based on system request features.",
   },
   {
-    place: "Global Solution",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Sr. Product Designer",
+    place: "Lap IT Solutions INC.",
+    tenure: "June 2023 - Dec 2023",
+    role: "Database Engineer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "Administer, Test, and Implement computer databases, applying knowledge of database management systems. Coordinate changes to existing client on their system. Identify, investigate, and resolve database performance issues, database capacity, and database scalability.",
   },
 ];
 
 export const comments = [
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "TypeScript",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
+      " A superset of JavaScript that adds optional static typing, interfaces, and other features to the language aims to make the development of large-scale applications more manageable and less error-prone.",
+    img: "./Tech1.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Python",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
+      "A high-level, interpreted programming language known for its simplicity and readability. It supports multiple programming paradigms and has a vast standard library.",
+    img: "./Tech3.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "NestJS",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
+      "A progressive Node.js framework for building efficient, scalable, and maintainable server-side applications. It uses TypeScript by default and combines elements of OOP, FP, and FRP",
+    img: "./Tech4.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "JavaScript",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
+      "A high-level, interpreted scripting language primarily used for web development. It allows for the creation of dynamic content on websites and can be run in any modern web browser without the need for compilation.",
+    img: "./Tech2.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Java",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
+      "An object-oriented, high-level programming language with platform independence, meaning code written in Java can run on any device that has a Java Virtual Machine (JVM).",
+    img: "./Tech5.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Prisma",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
+      "An open-source database toolkit that includes an ORM (Object-Relational Mapping) for Node.js and TypeScript. It provides a type-safe API for querying databases.",
+    img: "./Tech6.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "PostgreSQL",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
+      "An open-source relational database management system (RDBMS) known for its extensibility, SQL compliance, and emphasis on features, robustness, and performance.",
+    img: "./Tech7.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "PHP",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
+      "A popular server-side scripting language designed specifically for web development but can also be used for general-purpose programming.",
+    img: "./Tech8.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Laravel",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
+      "A free, open-source PHP web framework that provides a clean and elegant syntax, aiming to take the pain out of web development tasks like routing, authentication, and caching.",
+    img: "./Tech9.png",
   },
+  
 ];
 
 export const sliderSettings = {
