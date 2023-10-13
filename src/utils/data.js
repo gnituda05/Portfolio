@@ -36,7 +36,7 @@ export const workExp = [
       "BS Computer Science students for successfully presenting their research papers to the 5th Artificial Intelligence and Cloud Computing Conference (AICCC 2022) held in Osaka International Convention Center, Osaka, Japan, from December 17-19,2022.",
   },
   {
-    place: "BoredGuys Corp.",
+    place: "The BoredGuys Corp.",
     tenure: "Feb 2023 - April 2023",
     role: "Back-End Developer",
     detail:
