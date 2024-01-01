@@ -47,7 +47,7 @@ const Hero = () => {
 
           <motion.div variants={fadeIn("left", "tween", 0.5, 1)} className={css.certificate}>
             <img src="./certificate.png" alt="" />
-            <span>CERTIFIED BS</span>
+            <span>DG: BS</span>
             <span>COMPUTER SCIENCE</span>
           </motion.div>
         </div>
