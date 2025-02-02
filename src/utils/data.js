@@ -37,14 +37,14 @@ export const workExp = [
   },
   {
     place: "The BoredGuys Corp.",
-    tenure: "Feb 2023 - April 2023",
+    tenure: "Feb 2023 - July 2023",
     role: "Back-End Developer",
     detail:
       "I specialize in implementing scalable APIs and routes to drive core functionality based on system request features.",
   },
   {
     place: "Lap IT Solutions INC.",
-    tenure: "June 2023 - Dec 2023",
+    tenure: "Dec 2022 - Oct 2023",
     role: "Database Engineer",
     detail:
       "Administer, Test, and Implement computer databases, applying knowledge of database management systems. Coordinate changes to existing client on their system. Identify, investigate, and resolve database performance issues, database capacity, and database scalability.",
