@@ -44,7 +44,7 @@ export const workExp = [
   },
   {
     place: "Lap IT Solutions INC.",
-    tenure: "Dec 2022 - Oct 2023",
+    tenure: "Dec 2022 - Oct 2024",
     role: "Database Engineer",
     detail:
       "Administer, Test, and Implement computer databases, applying knowledge of database management systems. Coordinate changes to existing client on their system. Identify, investigate, and resolve database performance issues, database capacity, and database scalability.",
