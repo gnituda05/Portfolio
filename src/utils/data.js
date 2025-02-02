@@ -3,7 +3,7 @@ import { CiMobile1 } from "react-icons/ci";
 import { MdWorkspacesOutline } from "react-icons/md";
 export const projectExperience = [
   {
-    name: "Database Engineer",
+    name: "Database Administrator",
     projects: 134,
     icon: HiOutlineDatabase,
     bg: "#286F6C",
